@@ -2,7 +2,7 @@
 
 A customer-support agent for a fictional online store. Given a plain-English question, it works out for itself which backend function(s) it needs, calls them (sometimes more than one, in sequence), and turns the result into a normal-sounding reply — without ever inventing facts it doesn't actually have.
 
-**Try it live:** https://agentic-ai-store-assistant-tahasjwtq4cahtuphti3cl.streamlit.app/
+**Try it live:** https://agentic-ai-store-assistant-tahasjwtq4cahtuphti3cl.streamlit.app/ 
 **Source:** https://github.com/mahiwal619/agentic-ai-store-assistant
 
 ## The problem this solves
